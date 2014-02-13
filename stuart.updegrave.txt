@@ -3,8 +3,8 @@ Barcelona, Spain
 
 email:         stuart@updegrave.com
 github:        https://github.com/supdegrave
-stackoverflow: http://stackoverflow.com/users/3108246/stuart-updegrave
 linkedin:      http://www.linkedin.com/profile/view?id=308783418
+stackoverflow: http://stackoverflow.com/users/3108246/stuart-updegrave
 
 skype / google hangouts / mobile: on request
 
