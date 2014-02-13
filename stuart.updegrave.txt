@@ -1,0 +1,162 @@
+STUART UPDEGRAVE
+Barcelona, Spain
+
+email:         stuart@updegrave.com
+github:        https://github.com/supdegrave
+stackoverflow: http://stackoverflow.com/users/3108246/stuart-updegrave
+linkedin:      http://www.linkedin.com/profile/view?id=308783418
+
+skype / google hangouts / mobile: on request
+
+
+EXPERIENCE
+
+Nov 2013 - Present: Nowhere (Europe) LTD
+* Developing an online application for enrollment and management of volunteer 
+  positions (leads, teams, schedules) for goingnowhere.org, intended to 
+  replace existing processes using shared spreadsheets and other disconnected
+  systems. Ruby on Rails, jQuery, XHR. 
+
+
+Sep 2013 - Present: Unannounced project
+* Member of principals team currently exploring and developing concepts for a
+  new web-based startup. Will serve as lead developer if the project proves 
+  viable. 
+
+
+Apr 2012 - Oct 2013: Nowhere (Europe) LTD
+* Transportation Lead for the largest Burning Man Regional Network event in 
+  Europe. Coordinated rental of vehicles for cargo and passengers, delivery of
+  cargo and materials.
+  
+
+Apr 2011 - Apr 2013: Personal Sabbatical 
+* Spent one year traveling through United States, Europe and Morocco by 
+  motorcycle, prior to settling in Barcelona, Spain. 
+
+
+Nov 2008 - Apr 2011: Maxsam Partners / Virtuoso / 23TouchPoints
+* UI and middle-tier development using Silverlight, C#, ADO.NET Data Services. 
+  Project is a line-of-business application for the travel industry, connect-
+  ing travel advisors (and their clients) with suppliers. Scrum methodology, 
+  MVVM architecture. 
+
+
+Jun 2008 - Oct 2008: Haute Secure
+* Web development, primarily using Ruby on Rails. Focused on creating working 
+  prototypes of new technology platform focused on broad-based web security. 
+  Most development was using RoR as front-end technology for Java web-service
+  layer(s). Loose adherence to Scrum methodology. 
+
+
+Apr 2008 - Jun 2008: Pathable.com
+* Worked as second developer for Pathable, a community and networking platform 
+  for conference planners and attendees. Worked on features throughout the 
+  product, with priorities set by daily Scrum. Pathable.com is built using Ruby
+  on Rails. 
+
+
+Mar 2007 - Apr 2008: Substantial, LLC
+* Worked on versions 1 & 2 of Yourstreet.com, a Ruby on Rails website. V1 was 
+  targeted towards local real-estate enthusiasts, and V2 is a dynamic news-
+  aggregation site which places pins for news items and community members on an
+  interactive map. This application uses a rich custom javascript library using 
+  MVC design to capture and respond to user-driven actions.
+
+
+Apr 2006 - Feb 2007: Updegrave Web Consulting
+* Built an authentication / authorization layer which sits atop six
+  existing web applications (mostly C#/ASP.NET, some VBScript/ASP 3.0) for Army
+  National Guard.
+* Built the following portal sites for Envision Response <www.envisiontv.com>:
+  - www.teetertv.com: replaced backend of existing customer data collection
+    form (simple mailto cgi script) with custom database, including admin UI.
+  - www.vitaltherapy.com: page layout, Flash components, and audio sync between
+    them
+  - www.ozitech.com: page layout, Flash component
+* Designed and developed back-end content management features for
+  Victrola Coffee Roasters <www.victrolacoffee.com>.
+
+
+Aug 2005 - Apr 2006: Personal Sabbatical
+* After leaving Microsoft, I took time to travel, work on personal projects,
+  provide hurricane relief assistance in Biloxi, Mississippi, and simply have
+  some not-work time after nine intense years there.
+
+
+May 2003 - Aug 2005: Software Design Engineer, Microsoft Corporation
+
+Microsoft.com Platform Team
+
+* Developer for Business Intelligence (BI) team adoption of SQL Reporting
+  Services. Goals were to simplify BI reporting tools, automate generation
+  of common reports, allow users to aggregate disparate reports, and replace
+  existing reporting system that had grown fragile due to repeated extension.
+  Built web UI framework, middle-tier logic, back-end database, web service
+  consumption.
+
+
+July 1999 - May 2003: Development Manager, Microsoft Corporation
+
+Content Development and Delivery Group (CDDG) Platform Team (2001 - May 2003)
+
+* Managed a team of 4-8 developers on multiple projects, performed semi-annual
+  reviews, coached team members on personal development, was heavily involved
+  in product design and planning.
+
+* Managed Download Center 2.0 product release (downloads are historically the
+  most common reason for visiting Microsoft.com). Built front-end of workflow
+  tool for publishing downloads to Microsoft.com, while my team built the
+  external site. http://download.microsoft.com/
+
+* Led search.microsoft.com team. Main focus was to replace existing platform
+  with a relevant, fast search engine implemented using .Net Frameworks.
+  Project was cancelled in favor of Microsoft platform offerings.
+
+
+MSDN Online / CDDG Relationship Product Unit (July 1999 - 2001)
+
+* Managed team during major redesigns to deliver common online application
+  framework for use on MSDN Online and TechNet Online. Much of this function-
+  ality is still in place on http://msdn.microsoft.com/library/.
+
+* Delivered Start Page and Filter Manager features for Visual Studio .NET. This
+  required a great deal of cross-group collaboration, as the MSDN Online web
+  dev team was essentially distinct from VS core team.
+
+
+Dec 1996 - July 1999: Web Developer, Wasser Inc, (on contract to Microsoft)
+
+* Web developer on Internet Explorer and Site Builder Network websites.
+
+
+TECHNICAL EDUCATION
+
+1998 - 1999, University of Washington Extension, Seattle WA
+
+* Completed Certificate Program in C Programming, three-semester course
+  sequence.
+
+
+TECHNICAL EXPERIENCE
+
+* Web Client: HTML (various iterations and interaction models), CSS, 
+  JavaScript, jQuery, AJAX / XHR, Silverlight
+
+* Web Server: C# (ASP.Net, WinForms, console applications), ASP, JScript,
+  VBScript, PHP, Ruby on Rails
+
+* XML, XSLT, XPath
+
+* SQL (SQL Server, MySQL -- queries, stored procedures, light database
+  design)
+
+
+ACHIEVEMENTS
+
+Wrote chapters on Windows Script Host in the following books, published by the
+Wrox Press:
+
+* Professional JavaScript, Wrox Press (ISBN 1-861002-70-X)
+
+* VBScript Programmer’s Reference, Wrox Press (ISBN 1-861002-71-8)
